@@ -13,9 +13,13 @@ It complements my foundational work, which is documented in my [Data Analysis Po
 
 ## 🛠️ Tech Stack & Tools
 **Languages:** Python, SQL
+
 **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow (Learning), PyTorch (Learning)
+
 **Data Manipulation & Analysis:** Pandas, NumPy
+
 **Data Visualization:** Matplotlib, Seaborn, Plotly
+
 **Tools & Ecosystem:** Git, GitHub, Jupyter Notebooks
 
 ## 📂 Projects
